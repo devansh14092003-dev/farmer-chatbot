@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;600&display=swap');
+
+/* Background container */
+.app-background {
+  min-height: 100vh;
+  width: 100vw;
+  background: url('https://images.unsplash.com/photo-1625246333195-78d9c38ad449?q=80&w=1920&auto=format&fit=crop') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Mukta', sans-serif;
+  overflow: hidden;
+}
+
+/* Floating Action Button */
+.chat-fab {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #2e7d32;
+  color: white;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+  transition: transform 0.3s;
+  z-index: 1000;
+}
+
+.fab-icon {
+  font-size: 32px;
+  margin-top: -4px;
+}
+
+.chat-fab:hover {
+  transform: scale(1.1);
+  background-color: #1b5e20;
+}
+
+/* --- CENTERING OVERLAY --- */
+.chat-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5); /* Dims the background behind the chatbot */
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  z-index: 1000;
+  backdrop-filter: blur(2px); /* Beautiful blur effect */
+}
+
+/* --- BIGGER CHAT WINDOW --- */
+.chat-window {
+  width: 600px;         /* Much wider than before */
+  height: 80vh;         /* Takes up 80% of screen height */
+  max-height: 800px;    
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 15px 50px rgba(0,0,0,0.4);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  animation: popIn 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+  font-family: 'Mukta', sans-serif;
+}
+
+/* Animations */
+@keyframes popIn {
+  0% { transform: scale(0.8) translateY(20px); opacity: 0; }
+  100% { transform: scale(1) translateY(0); opacity: 1; }
+}
+
+@keyframes slideUpMsg {
+  0% { transform: translateY(15px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes pulseMic {
+  0% { box-shadow: 0 0 0 0 rgba(245, 124, 0, 0.7); }
+  70% { box-shadow: 0 0 0 15px rgba(245, 124, 0, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(245, 124, 0, 0); }
+}
+
+@keyframes typingBounce {
+  0%, 60%, 100% { transform: translateY(0); }
+  30% { transform: translateY(-5px); }
+}
+
+/* Header */
+.chat-header {
+  background: #2e7d32;
+  color: white;
+  padding: 18px 25px; /* slightly padded to match bigger box */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.bot-icon {
+  font-size: 32px;
+}
+
+.header-left h3 { margin: 0; font-size: 22px; font-weight: 600;}
+.header-left p { margin: 0; font-size: 14px; opacity: 0.9; }
+
+.close-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+/* Voice Language Selector */
+.voice-lang-bar {
+  background: #f1f1f1;
+  padding: 10px 20px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #ddd;
+}
+
+.voice-lang-bar select {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+/* Chat Body */
+.chat-body {
+  flex-grow: 1;
+  padding: 25px;
+  overflow-y: auto;
+  background: #f4f9f4; 
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+/* Message Bubbles */
+.msg-bubble {
+  max-width: 80%;
+  padding: 14px 18px;
+  border-radius: 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  animation: slideUpMsg 0.3s ease-out forwards;
+  word-wrap: break-word;
+}
+
+.bot-msg {
+  background: white;
+  color: #333;
+  align-self: flex-start;
+  border-bottom-left-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  border: 1px solid #e0e0e0;
+}
+
+.user-msg {
+  background: #2e7d32;
+  color: white;
+  align-self: flex-end;
+  border-bottom-right-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Typing Indicator Animation */
+.typing-indicator {
+  display: flex;
+  gap: 6px;
+  padding: 6px;
+  align-items: center;
+  justify-content: center;
+}
+
+.typing-indicator span {
+  width: 10px;
+  height: 10px;
+  background-color: #2e7d32;
+  border-radius: 50%;
+  animation: typingBounce 1.4s infinite ease-in-out both;
+}
+
+.typing-indicator span:nth-child(1) { animation-delay: -0.32s; }
+.typing-indicator span:nth-child(2) { animation-delay: -0.16s; }
+
+/* Chat Footer / Input Area */
+.chat-footer {
+  padding: 20px;
+  background: white;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-top: 1px solid #eee;
+}
+
+.chat-input {
+  flex-grow: 1;
+  padding: 15px 20px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  outline: none;
+  font-size: 16px;
+  transition: border-color 0.3s;
+}
+
+.chat-input:focus {
+  border-color: #2e7d32;
+}
+
+.btn {
+  background: #2e7d32;
+  color: white;
+  border: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 20px;
+  transition: background 0.3s;
+}
+
+.btn:hover { background: #1b5e20; }
+
+.btn-mic.recording {
+  background: #f57c00;
+  animation: pulseMic 1.5s infinite;
+}
+
+/* Mobile Responsiveness - Keeps it full screen on small devices */
+@media (max-width: 768px) {
+  .chat-window {
+    width: 95vw;
+    height: 90vh;
+  }
+}
+
+@media (max-width: 480px) {
+  .chat-window {
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+  }
+}
+.msg-bubble h1,
+.msg-bubble h2,
+.msg-bubble h3,
+.msg-bubble h4 {
+  margin: 10px 0;
+  font-weight: 700;
+}
+
+.msg-bubble p {
+  margin: 6px 0;
+}
+
+.msg-bubble ul,
+.msg-bubble ol {
+  padding-left: 20px;
+  margin: 8px 0;
+}
+
+.msg-bubble li {
+  margin-bottom: 5px;
+}
+
+.msg-bubble strong {
+  font-weight: bold;
+}

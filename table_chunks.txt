@@ -1,0 +1,611 @@
+===== TABLE =====
+
+
+--- TABLE 0 ---
+Cultivar type: Hybrids Basmati / scented varieties. Rice cultivars: APHR 1, DRRH-3, PA 6201, Pusa RH 10, HRI 120, Sahyadri-2, UPRH 27, Rajalaxmi, Pant Sankar Dhan 1, Pant Sugandh Dhan-17, PHB 71 Basmati 370, Pusa Basmati 1, Taraori Basmati (Karnal local), Pusa Sugandh 3, Pusa Sugandh 4, Pusa Sugandh 6, PRH 10, Pant Dhan
+
+--- TABLE 1 ---
+Cultivar type: Other improved varieties. Rice cultivars: 15, Punjab Basmati-1, Pusa Basmati 1121, Pusa Basmati 6, Pusa Basmati 1509 Mahamaya, GK 5003, Pusa 33, Pusa 169, Mehsuri, JKRH-401, Gurjari, GR-6, Dandi, HKR-127, Bhrigu Dhan, Himalaya 2216, SKAU 23, SKAU 27, GK 5003, Gauri, Sweta , Ratnagiri 24, Rajeshwari, PR
+
+--- TABLE 2 ---
+Rice: Rice nursery. Herbicides: Butachlor. Dose (kg a.i./ha): 1.0-1.5. Application time and remarks: Pre-emergence at 5-6 days after sowing (DAS) If moisture is less
+
+--- TABLE 3 ---
+Rice: Pendimethalin. Herbicides: 1.0-1.5. Dose (kg a.i./ha): in soil, irrigation should be done immediately. Pre-emergence at 5-6 DAS If moisture
+
+--- TABLE 4 ---
+Rice: Direct-seeded upland rice. Herbicides: Pretilachlor (S) Butachlor. Dose (kg a.i./ha): 0.3-0.4 1.0-1.5. Application time and remarks: done immediately. Pre-emergence at 3-5 DAS. To be applied before emergence of
+
+--- TABLE 5 ---
+Rice: Pendimethalin. Herbicides: 1.0-1.5. Dose (kg a.i./ha): crop One hand weeding at 30-35 DAS will supplement herbicide treatment. To be applied before emergence of
+
+--- TABLE 6 ---
+Rice: Pretilachlor (S) Metsulfuron-. Herbicides: 0.3-0.4 0.010-0.015. Dose (kg a.i./ha): will supplement herbicide treatment. Pre-emergence at 3-5 DAS. Post-emergence at 30-35 DAS basically
+
+--- TABLE 7 ---
+Rice: Direct-seeded puddled and transplanted rice. Herbicides: methyl Butachlor. Dose (kg a.i./ha): 1.0-1.5. Application time and remarks: a broad-leaved weed killer and recommended as a substitute of 2,4-D. Pre-emergence at 3-5 days after transplanting (DAT) on saturated soil No irrigation or standing water
+
+--- TABLE 8 ---
+Rice: Pendimethalin. Herbicides: 1.0-1.5. Dose (kg a.i./ha): impounded for at least 3 days after treatment. Pre-emergence at 3-5 DAT on saturated soil No irrigation or
+
+--- TABLE 9 ---
+Rice: Pretilachlor (S) Metsulfuron- methyl. Herbicides: 0.3-0.4 0.010-0.015. Dose (kg a.i./ha): least 3 days after treatment. Pre-emergence at 3-5 DAT. Post-emergence at 30-35 DAS basically a broad-leaved weed killer
+
+--- TABLE 10 ---
+Disease and its causal organism: Leaf and neck blast. Symptoms: Initial symptoms on the leaves are white to grayish green circular lesions/spots with dark green borders, which may enlarge and coalesce to kill the entire leaves. Lesions on the neck cause the girdling. Management: Early sowing of seeds and balanced use of fertilizers.  Planting resistant varieties against the rice blast is the most practical and economical way.  Systemic fungicides are effective against the disease.
+
+--- TABLE 11 ---
+Disease and its causal organism: Bacterial leaf blight. Symptoms: of the neck and the panicle to fall over. Water-soaked to yellowish stripes on leaf blades or starting at leaf tips. Severely infected leaves tend to dry quickly.. Management: Field sanitation such as removing weed hosts, rice straws, ratoons, and volunteer seedlings.  Use of resistant varieties.  Seed treatment with bleaching powder (100µg/ml) and zinc
+
+--- TABLE 12 ---
+Insect-pest: Stem borer (yellow). Nature of damage: Symptoms of stem borer damage are deadhearts and whiteheads. Whiteheads are discolored panicles with empty or partially filled grains. Larvae. Management: Adopt seedling root dip treatment in 0.05% chlorpyriphos emulsion for one minute before transplanting in endemic areas. -1  Apply carbofuran 3G  20 kg ha -1
+
+--- TABLE 13 ---
+No of irrigations: 1. Critical stages for irrigation: CRI
+
+--- TABLE 14 ---
+No of irrigations: 2. Critical stages for irrigation: CRI  LJ
+
+--- TABLE 15 ---
+No of irrigations: 3. Critical stages for irrigation: CRI  B  M
+
+--- TABLE 16 ---
+No of irrigations: 4. Critical stages for irrigation: CRI  LT  F  M
+
+--- TABLE 17 ---
+No of irrigations: 5. Critical stages for irrigation: CRI  LT  LJ  F  M
+
+--- TABLE 18 ---
+and Sseparisnogn. The: Kharif. optimum time of sowiOnpg tairme ugmive tnim beel oowf s:owing: Last week of June to first fortnight July th
+
+--- TABLE 19 ---
+and Sseparisnogn. The: Rabi. optimum time of sowiOnpg tairme ugmive tnim beel oowf s:owing: Last week of October for inter cropping and up to 15 of November
+
+--- TABLE 20 ---
+TSh. eN foo.ll: 1. owing crop gPeuormpoetsrey and seed r: Normal grain maize. ateS seheodu rlda tbee ( akdgo/phtae)d.: 20. Plant geometry (plant  row in cm): 60  20
+
+--- TABLE 21 ---
+TSh. eN foo.ll: 2. owing crop gPeuormpoetsrey and seed r: Quality protein maize (QPM). ateS seheodu rlda tbee ( akdgo/phtae)d.: 20. Plant geometry (plant  row in cm): 60  20
+
+--- TABLE 22 ---
+TSh. eN foo.ll: 3. owing crop gPeuormpoetsrey and seed r: Sweet corn. ateS seheodu rlda tbee ( akdgo/phtae)d.: 8. Plant geometry (plant  row in cm): 75  25
+
+--- TABLE 23 ---
+TSh. eN foo.ll: 4. owing crop gPeuormpoetsrey and seed r: Pop corn. ateS seheodu rlda tbee ( akdgo/phtae)d.: 12. Plant geometry (plant  row in cm): 60  20
+
+--- TABLE 24 ---
+sowing timeS vtaatreie s in differe: Punjab and Haryana Rajasthan. nt states asR gaiivnefne dbelow.: Second to third week of October First to 15 October. Irrigated: Fourth week of October to 15 November 15-30 October in south and south-eastern Rajasthan
+
+--- TABLE 25 ---
+sowing timeS vtaatreie s in differe: Bihar and Gujarat Madhya Pradesh Maharashtra, Uttar Pradesh, Karnataka,. nt states asR gaiivnefne dbelow.: 15 October to first week of November First fortnight of October. Irrigated: First fortnight of November End of October to first week of November
+
+--- TABLE 26 ---
+upon the variety and its c: Very early maturing:. rop duration are as follows:: Monocrop: 20 kg/ha, spacing 120  30 cm
+
+--- TABLE 27 ---
+upon the variety and its c: Early maturing:. rop duration are as follows:: Monocrop: 20 kg/ha, spacing 120  30 cm
+
+--- TABLE 28 ---
+upon the variety and its c: Medium duration:. rop duration are as follows:: Monocrop: 15 kg/ha, spacing 60  20 cm
+
+--- TABLE 29 ---
+SSo.m Neo p.: 1. romising varietCierso opf rapeseed and: Brassica carinata Indian mustard ( ). mustard group arVea arsi eutniedser:: RH 9304, RH 9801, RH 30, RH 819, T-59
+
+--- TABLE 30 ---
+SSo.m Neo p.: 2. romising varietCierso opf rapeseed and: Brassica rapa Karan rai ( ). mustard group arVea arsi eutniedser:: Pusa sawarnim, Pusa Aditya
+
+--- TABLE 31 ---
+SSo.m Neo p.: 3. romising varietCierso opf rapeseed and: Brown sarson ( var. brown sarson). mustard group arVea arsi eutniedser:: BSH-1, Pusa Kalyani, KBS-3
+
+--- TABLE 32 ---
+SSo.m Neo p.: 4. romising varietCierso opf rapeseed and: Brassica rapa Toria. mustard group arVea arsi eutniedser:: TH 68, Sangam and TL 15, Bhawani
+
+--- TABLE 33 ---
+SSo.m Neo p.: 5. romising varietCierso opf rapeseed and: Yellow sarson ( var. Brassica napus yellow sarson). mustard group arVea arsi eutniedser:: YST 151, Type 42, K-88, YS 24, PS 66, NDYS 842
+
+--- TABLE 34 ---
+SSo.m Neo p.: 6. romising varietCierso opf rapeseed and: Brassica nigra Gobhi sarson ( ). mustard group arVea arsi eutniedser:: Neelam, Sheetal, ONK-1, Hyola 401 (Hybrid)
+
+--- TABLE 35 ---
+sVuanrflioewtieers a: Hybrids. re as under:: CO-5, TAS-82, DRSF-113, DRSF-108, TNAU SUF-7, GAU SUF-15
+
+--- TABLE 36 ---
+CoZtotonne v: North. ariGe.t aiersb roerceoummme: Lohit, Shyamali,. ndGe.d h feorrb daicffeeurment z: Digvijay. onesG a.r hei arssu utnudmer:: Ganganagar Ageti,. G. barbadense: -
+
+--- TABLE 37 ---
+CoZtotonne v: Zone. ariGe.t aiersb roerceoummme: RG 1, LD 230, HD 11. ndGe.d h feorrb daicffeeurment z: Pusa 31, Pusa 8-3, H 1117
+
+--- TABLE 38 ---
+CoZtotonne v: Central Zone South. ariGe.t aiersb roerceoummme: Sanjay, G 22, AKH 4, AKA 1 Nardium,. ndGe.d h feorrb daicffeeurment z: F 46, V 797, Digvijay, CNH 36 Jayadhar, Raichur. onesG a.r hei arssu utnudmer:: Laxmi, Badnawar 1, Nimbakar 1, Deviraj Laxmi, Mysore Vijay,. G. barbadense: Suvin Suvin, Sujata,
+
+--- TABLE 39 ---
+sVeeadri reattiee sfo/rh ydbifrfeidresnt specis/cltivars is as under:: American Cotton Bt Hybrids. Seed-rate (kg/acre): 0.750
+
+--- TABLE 40 ---
+Disease: Dieback. Symptoms: Dieback refers to death of younger tertiary branches starting from apex progressing downwards.. Control measures: 1. Removal of dead and whippy wood. 2. Providing judicious shade. 3. Conservation of soil moisture with thick mulch. 4. Foliar application of nutrients.
+
+--- TABLE 41 ---
+Disease: Leaf rust. Symptoms: arabica This disease cause economic loss particularly in. Control measures: 5. Correcting the soil acidity by application of lime. Spray with 0.5% Bordeaux mixture or 0.03% oxycarboxin 20 EC, 3-4 times a
+
+--- TABLE 42 ---
+Pest: Coffee berry borer. Symptoms: The female beetle bores into the berries through the navel region and makes tunnels in the hard bean and lays eggs. A typical pinhole at the tip of the berries indicates the presence of the. Control measures: Timely and complete harvest, burying the infested berries and maintaining optimum shade and good drainage can control the pest. Spraying quinalphos 0.05% along with wetting agent 120-150
+
+--- TABLE 43 ---
+Pest: White stem borer. Symptoms: pest, and it damages young as well as ripe berries. The adults have two flight periods as they emerge from the pupae during April-May and in September to December/ January. As the beetles are active and females lay eggs in. Control measures: days after flowering can control the pest. Swabbing the main stem and the thick primaries with carbaryl 50 WP  4 kg in 200 L water once or twice in April-May or October to December.
+
+--- TABLE 44 ---
+Training of young tea plants: Centering. Proper training of young tea plants is essential to encourage good: spread of the bushes, proper development of frames and high density of plucking points. Cut the leader stem of the plants with secateur to arrest the apical dominance and to induce the secondary branches. Cut as low as possible leaving 8-10 mature leaves below the cut. Ensure proper
+
+--- TABLE 45 ---
+Training of young tea plants: Tipping. Proper training of young tea plants is essential to encourage good: recovery. Centering should be done 4-6 months after planting during humid weather when there is adequate moisture in the soil. First plucking of the periodic shoot is done after centering/ pruning. Two-tier tipping ensures proper spread. First tipping at 35 cm height will induce the tertiaries. Second tipping at 50 cm height will increase the density of plucking points.
+
+--- TABLE 46 ---
+Training of young tea plants: Plucking. Proper training of young tea plants is essential to encourage good: Tipping should be done at green, semi-hardwood branches. Tipping should be done in shoots having 3-4 leaves and a bud. Mother leaf / step-up plucking is practiced during lean seasons. Level
+
+--- TABLE 47 ---
+Shade management: Pollarding. Grevillea robusta The best permanent shade tree for tea plantation in south India is silver oak ( ). Tea requires only sparse shade. So retain optimum stand of shade-based on the growth of the tree,: altitude of the garden and aspect of the field (south and west slopes require more shade). Always thin out shade prior to pruning. Cutting the main stem with the objective of developing lateral branches is called pollarding. Commence pollarding when the trees attain a girth of around 50 cm at elbow level. Pollarding depends on altitude (8 m height for higher altitude, 9 m for low elevation). Leave
+
+--- TABLE 48 ---
+Shade management: Annual lopping. Grevillea robusta The best permanent shade tree for tea plantation in south India is silver oak ( ). Tea requires only sparse shade. So retain optimum stand of shade-based on the growth of the tree,: one branch in each direction and 3 to 4 tiers of branches, below the pollarding height. Cutting the erect growing branches on the laterals is called lopping,
+
+--- TABLE 49 ---
+Shade management: Plucking. Grevillea robusta The best permanent shade tree for tea plantation in south India is silver oak ( ). Tea requires only sparse shade. So retain optimum stand of shade-based on the growth of the tree,: which should be done before the onset of monsoons and lop only the erect branches and retain the laterals.  Harvest 2-3 leaves and a bud.  Pluck the mother leaf during January-March.  Pluck the new level during rest of the month.  Pluck at 7-10 days interval during high cropping months.  Pluck at 12-15 days interval during low cropping months.  Do not pluck below the level.  Leave immature shoots.
+
+--- TABLE 50 ---
+Disease: Black root disease. Symptoms: The common symptoms are wilting, chlorosis, drying. Control measures: Remove surface mulches around 10 m. Drench soil with mancozeb 30 g/10 L
+
+--- TABLE 51 ---
+Disease: Collar canker. Symptoms: without defoliation and death of bush. The main symptoms are chlorosis, cessation of. Control measures: water. Follow phytosanitary measures. Remove affected portion by pruning the healthy wood and apply copper
+
+--- TABLE 52 ---
+Disease: Blister blight. Symptoms: growth, profuse flowering and canker on stem. The fungus affects only tender leaves and stems. Stem infection leads to goose-neck shape, dieback. Control measures: fungicide to cut ends. Spray of copper oxychloride 350 g  plantomycin 70 g/ha at 3-4 days interval can control the disease.
+
+--- TABLE 53 ---
+Pests: White/ cockchafer grubs (Holotrichia ). Symptoms: The creamy white grub eats away the roots. Main symptoms are ring barking of stem, chlorosis and defoliation. The pest is a. Control measures: Heat treatment of soil is effective. Drench 0.05% chlorpyriphos or quinalphos.
+
+--- TABLE 54 ---
+Pests: sp. Root mealy bug (Dysmicoccus ) sp.. Symptoms: serious problem in areas where un-decomposed FYM is used. The pest is a problem in nursery. It sucks sap from the callusing region, mother leaf petiole and axillary buds. This arrests root. Control measures: It can be controlled by spraying and soil drenching with chlorpyriphos or quinalphos 0.05 per cent.
+
+--- TABLE 55 ---
+Column A: Rabi crops. Column B: Wheat, gram, pea
+
+--- TABLE 56 ---
+Column A: crops. Column B: Urea and super phosphate
+
+--- TABLE 57 ---
+Column A: Chemical fertilisers. Column B: Rice, maize, soybean
+
+--- TABLE 58 ---
+Organic manur Column A: Rice. e FYM, compost Column B: Crown root initiation (CRI), tillering, flowering, milking, grain filling
+
+--- TABLE 59 ---
+Organic manur Column A: Wheat. e FYM, compost Column B: Tillering, panicle initiation, heading, flowering, grain filling
+
+--- TABLE 60 ---
+Organic manur Column A: Maize. e FYM, compost Column B: Flowering and pod development
+
+--- TABLE 61 ---
+Insect-pest: San Jose Scale Woolly apple aphid. Control measures: Application of 2 per cent miscible oil or 5 per cent summer oil during February-March efficiently controls the pest. Soil application of phorate or carbofuran granules during May and October-November checks its incidence and spread of this pest. The foliar spray of chlorpyriphos (0.02%), fenitrothion (0.05%), dimethoate (0.03%) or phosphamidon (0.03%) also controls the pest effectively.
+
+--- TABLE 62 ---
+Insect-pest: Root borers. Control measures: Drench tree basins with chlorpyriphos (0.04) or dusting
+
+--- TABLE 63 ---
+Insect- pest: Mango leaf hopper. Control measures: Mango hoppers can be controlled by two sprays of carbaryl (0.1%) or diazinon (0.2%) during January-February at fortnightly intervals.
+
+--- TABLE 64 ---
+Insect- pest: Mango mealy bug Stone. Control measures: Kill nymphs and females by spraying metasystox (0.2%). Follow banding of tree trunks with 30 cm wide alkathene. Difficult to control, however, bagging of fruits, destruction of affected
+
+--- TABLE 65 ---
+Insect- pest: weevil Fruit fly. Control measures: fallen fruits and disposal of debris, etc., can bring out reduction in the insect number. Collect and destroy the affected fruits. Use baits (malathion (0.05%)  jaggeryeugenol) at 4-5 places in open containers to attract the adult
+
+--- TABLE 66 ---
+Powdery: mildew Anthracnose. Two sprays of karathane (0.1% ) at fortnightly interval completely: control this disease. One preventive spray of karathane (0.1%) as soon as cloudy weather appears during flowering time. Spray zineb (0.2%). However, a preventive spray of Bordeaux
+
+--- TABLE 67 ---
+Insect-pests: Corm weevil. Control measures: Use healthy materials and treat rhizomes with hot water for 5-10 minutes. Ensure good sanitation. Drench with dieldrin.
+
+--- TABLE 68 ---
+Insect-pests: Stem borer weevil. Control measures: Ensure good sanitation. Spray with dieldrin.
+
+--- TABLE 69 ---
+Diseases: Leaf spot. Wrapping of fruit withC opnotlyreotlh myleeanseu braegss.: Used resistant cultivar. Spray with benomyl (0.03%).
+
+--- TABLE 70 ---
+Diseases: Panama disease (Fusarium wilt) Bunchy top. Wrapping of fruit withC opnotlyreotlh myleeanseu braegss.: Use resistant variety. Ensure good sanitation. Use disease free planting material. Adoption of strict quarantine measures, destroy infected plant
+
+--- TABLE 71 ---
+Insect pests: Fruit fly. Damage: Most serious pest of rainy season crop, renders whole crop unfit for consumption.. Control measures: Soil raking, destruction of infected fruits, use of baits (sugar  malathion) and spraying plants with malathion (0.05%)
+
+--- TABLE 72 ---
+Insect pests: Mealy bug. Damage: Maggots on hatching, enter the fruits, and feed inside. Causes damage by sucking cell sap from tender leaves, shoots, flowers and fruits. The affected leaves dry. Control measures: or dimecron (0.03%) during oviposition period are some useful measures. The banding of the tree trunk with polyethylene film or Ostico-sticky bands is the best method to prevent them climbing up the tree. Further, treatment
+
+--- TABLE 73 ---
+Diseases: Wilt. Symptoms resulting in poor yield.: This disease is characterized by yellowing of leaves, followed by drying of the leaves. The twigs start drying from tip downwards. The plant may collapse slowly in several or within. Control measures effective.: Remove and burn the infected plants, maintain proper drainage, grow wilt resistant varieties (L-49, Banarasi), avoid planting in highly alkaline soils, disinfect soil with 2 per cent formaldehyde solution before planting, and drench soil with brassicol or spray bavistin (0.1%)
+
+--- TABLE 74 ---
+Diseases: Anthracnose. Symptoms resulting in poor yield.: 15-20 days. Die-back starts from top of the branch. Other plant parts, like shoots, leaves and fruits are readily affected. High humidity and frequent. Control measures effective.: at an interval of 15 days at early stages of disease infection. Spray dithane-Z-78 or phytolan (0.2%) at fortnightly interval.
+
+--- TABLE 75 ---
+Insect-pest: Aphids (Several species). Damage: Aphids suck sap from young leaves and twigs thereby causing severe curling of leaves, stunting of plant and facilitate sooty mould growth by. Control measures: Sprays of monocrotophos (0.025%), phosphomidon (0.03%) or parathion (0.03%) are useful for the control of aphids.
+
+--- TABLE 76 ---
+Insect-pest: Citrus psylla. Damage: excreting honeydew. These aphids act as vector for Tristeza virus. Suck sap from young leaves and act as a vector for transmitting. Control measures: Spray systemic insecticides like phosphomidon (0.03%),
+
+--- TABLE 77 ---
+Insect-pest: Leaf minor. Damage: greening disease Young ones cause damage by mining the leaves. Control measures: monocrotophos (0 025%) or oxydemeton methyl (0.03%). Synthetic pyrethroids viz., fenvalerate (0.01%), permethrin
+
+--- TABLE 78 ---
+Insect-pest: Lemon. Damage: Caterpillars defoliate entire leaves.. Control measures: (0.005%) or cypetnethrin (0.001%) are most effective. Dusting and spraying with sevin
+
+--- TABLE 79 ---
+Insect-pest: butterfly Fruit. Damage: Adult insects suck sap from mature. Control measures: (0.1%) has been found very effective. Use light traps
+
+--- TABLE 80 ---
+Diseases moth a: Tristeza. Symptoms nd drop.: Symptoms like stem pitting, seedling yellows, etc. infected plants show poor growth, die. Control measures: Use tolerant rootstock like Rangpur lime, Cleopatra mandarin, Trifoliate orange,
+
+--- TABLE 81 ---
+Diseases moth a: Greening. Symptoms nd drop.: back, defoliations and ultimately death. The symptoms appear as chlorosis resembling Zn deficiency, short twigs with upright yellow leaves, leaf drop, dieback, formation of. Control measures: use certified bud-wood, control aphids by insecticides. Tree injection with tetracycline or employing cross protection is found to be effective. Control citrus psylla by suitable insecticides.
+
+--- TABLE 82 ---
+Diseases moth a: Phytophthora rot or gummosis. Symptoms nd drop.: multiple buds and disfigured fruits. Symptoms are noted as root rot, gummosis, blight of seedlings and fruit rot.. Control measures: Poncirus trifoliata Use resistant rootstocks like or sour orange. Soil drenching with foltaf (0.2%) or avoiding water stagnation
+
+--- TABLE 83 ---
+Insect-pest: Chafer. Damage: It feeds on buds, young and old leaves,. Control measures: Dust chloropyriphos dust
+
+--- TABLE 84 ---
+Insect-pest: beetle Thrips. Damage: eating away whole lamina, leaving only the skeleton of veins. Thrips suck sap from the lower leaf surface, producing silvery blotches, affected parts. Control measures: on plants. Spray malathion (0.5%) during March.
+
+--- TABLE 85 ---
+drop Causal Diseases: Powdery mildew. off. Symptoms: Virulent in south India. Powdery growth of fungus develops on the leaves and berries, which may drop. Berries do not ripen. Control measures: Sulphur dusting or spraying wettable sulphur (0.2%) or karathane (0.1%) protect the vine from powdery mildew.
+
+--- TABLE 86 ---
+drop Causal Diseases: Downy mildew. off. Symptoms: properly, become hard and crack. Initially, light-yellow translucent spots appear on the upper surface of leaf. Afterwards, white mould patches develop on the lower surface of the leaf. Severely affected leaves, flowers. Control measures: Spraying Bordeaux mixture (1%) at a weekly interval or fytolan (0.25%) holds good for control of downy mildew.
+
+--- TABLE 87 ---
+drop Causal Diseases: Anthracnose. off. Symptoms: and young berries may dry and drop off. There is development of erupted brown to black spots on all green parts of the vine. The growth is completely checked, resulting. Control measures: Destroy affected plant parts. Spray 0.2 per cent copper oxychloride or blitox (0.3%) or fytolan (0.3%) or bavistin
+
+--- TABLE 88 ---
+Insect-pest: Pomegranate butterfly. Damage: Caterpillars enter the developing fruits during July and feed on the seeds resulting in rotting and premature drop of fruits. The holes made by. Control measures: Bagging of fruits with butter paper. Two sprays, one each with 0.002% deltamethrin and 0.2% carbaryl at 21 days interval in rotation after fruit set.
+
+--- TABLE 89 ---
+Insect-pest: Bark eating caterpillar. Damage: caterpillars can be seen on the fruit. Eats bark and enters the stem by making holes.. Control measures: Training of bushes and keep only 3 to 4 stems. Spray dichlorvos (0.08%), or
+
+--- TABLE 90 ---
+Diseases: Fungal leaf and fruit spot. Symptoms: Development of brown spots on leaves, which not only affects leaf vitality and number but also affects fruit growth and. quinalphos C(0o.n0t8r%ol) .measures: Four sprays of copper oxichloride (0.4%) or thiophenate methyl (0.1%) or mancozeb (0.2%) or zineb (0.2%) at an interval of 15-20 days, starting from the initiation of disease have been highly effective.
+
+--- TABLE 91 ---
+Diseases: Bacterial leaf and fruit spot. Symptoms: spoils their appearance and market value. Occurs in more humid areas. Affected fruits. quinalphos C(0o.n0t8r%ol) .measures: Three sprays with 500 ppm pausamycin  0.2% copper oxychloride at 15 days
+
+--- TABLE 92 ---
+Major disease: Powdery mildew. Damage: Prevalent during rainy season, generally appears when the weather becomes. Control measures: Dusting with 2% sulphur W.P. is effective
+
+--- TABLE 93 ---
+Major pests: Tea mosquito bug. cloudy. Damage: Most serious pest, responsible for a damage of nearly 25-30%. Both nymphs and adults suck sap from the leaves, young shoots, inflorescence, developing. Control measures: Spray endosulfan or monocrotophos (0.05%) or carbaryl (0.1%) or quinalphos (0.05%) before
+
+--- TABLE 94 ---
+Major pests: Stem and root borer. cloudy. Damage: young nuts and apples. The grubs cause the damage, making tunnels in irregular directions. As a result of injury, trees show different degrees of foliar yellowing, leading to shedding of leaves, drying of twigs and. Control measures: infestation. Remove and burn all the affected trees to avoid further spread of the pest. Inject 10 ml of dichlorvos (0.1%) per hole and
+
+--- TABLE 95 ---
+Major diseases: Root wilt. Damage: Most important disease of coconut. The earliest diagnostic symptom is the abnormal inward bending of leaflets termed as ribbing or flaccidity, followed by root decay.. Control measures: Complete eradication of all the disease affected palms, mixed cropping with cocoa and intercropping with tapioca, are some good measures. At initial stage of the disease, spray the
+
+--- TABLE 96 ---
+Major diseases: Thanjavur wilt. Damage: Root decay.. Control measures: crown and drench the basin with 500 ppm tetracycline. Cut and remove all dead roots, cut ends of roots should be drenched with a mixture of
+
+--- TABLE 97 ---
+Major pest: Red palm weevil. Damage: Most destructive pest of coconut. Grubs cause damage inside the stem or crown by feeding on soft tissues.. Control measures sulphate.: Practice clean cultivation, avoid injury to trunk, attract weevils by smearing coconut toddy and destroy them. Injection of carbaryl
+
+--- TABLE 98 ---
+Major pest: Rhinoceros beetles. Damage: Adult beetles usually cause damage, which bore into the tender fronds and spathes,. Control measures sulphate.: (1%) to the infested trunk through a hole is also useful. Burn all dead trunks, leaves and logs. Spray carbaryl (0.1%) to kill the larvae.
+
+--- TABLE 99 ---
+Region: Very high hills. Season: Summer. Planting time: April-May. Harvesting time: September-October
+
+--- TABLE 100 ---
+Region: High hills. Season: Summer. Planting time: Mid-March-April. Harvesting time: September-October
+
+--- TABLE 101 ---
+Region: Mid hills North western plains. Season: Spring. Planting time: Jan-February. Harvesting time: May-June
+
+--- TABLE 102 ---
+Region: Early. Season: Mid-September. Planting time: Mid November-December
+
+--- TABLE 103 ---
+Region: Autumn. Season: Mid-October. Planting time: February-March
+
+--- TABLE 104 ---
+Region: Spring. Season: January. Planting time: April
+
+--- TABLE 105 ---
+variMetaietus rhiatvye b group: Early I (A) Sept. maturity. eeNnu grrsoeurpye sowing: Mid May. d aTsr aunnsdpelra:n- ting time: July beginning. Opt. temp. range for curding: 20-25 C. Varieties: Early Kunwari, Pusa Early Synthetic, Pant Gobhi-3, Pusa
+
+--- TABLE 106 ---
+Early I (B) Oct. maturity: (Mid Oct-mid Nov) Mid Early (II) Nov. maturity. May end to Mid: June July end. Mid July: Sept beginning. 20-25C: 16-20C. Pusa Katki, Pusa Deepali, Pant Gobhi-2: Improved Japanese, Pusa hybrid-2, Pusa Sharad, Pant
+
+--- TABLE 107 ---
+Early I (B) Oct. maturity: (Mid Nov-mid Dec) Mid late (III) Dec maturity (mid Dec-mid. May end to Mid: Aug end. Mid July: Sept end. 20-25C: 12-16 C. Pusa Katki, Pusa Deepali, Pant Gobhi-2: Gobhi-4 Pusa Synthetic, Pusa Subhra, Palam Uphar, KT-25, Pant Subhra, Pusa HimJyoti, Pb
+
+--- TABLE 108 ---
+Early I (B) Oct. maturity: Jan) Late (IV). May end to Mid: Sept end. Mid July: Oct end-mid. 20-25C: 10-16 C. Pusa Katki, Pusa Deepali, Pant Gobhi-2: Giant 35, Pusa Paushja, Pusa Shukti Snowball 16, Pusa Snowball-I,
+
+--- TABLE 109 ---
+Downy mildew: Black rot. It causes serious damage at all stages of plant growth. Discolouration occurs in the young: seedlings and in severe cases, whole plant perishes. The tissue at the leaf margin becomes yellow chlorosis progresses towards leaf center. Spray ridomil  0.5 g/litre of water at 10-15 days intervals or with dithane-M-45  1.5-2.0 g/: litre of water. Spray streptocycline  5g and blitox  100g per 10 litre of water after transplantation.
+
+--- TABLE 110 ---
+Downy mildew: Bacterial soft rot. It causes serious damage at all stages of plant growth. Discolouration occurs in the young: creating a V-shaped area at the mid rib. The affected plants show a soft, slimy, bad smelling rot that rapidly spreads throughout the plant under favourable conditions.. Spray ridomil  0.5 g/litre of water at 10-15 days intervals or with dithane-M-45  1.5-2.0 g/: Control measures adopted for other diseases can check this disease as well. Spray 100- 200 ppm streptocycline or plantomycin combined with
+
+--- TABLE 111 ---
+Downy mildew: Diamond back moth. It causes serious damage at all stages of plant growth. Discolouration occurs in the young: Spindle shaped pale yellowish green caterpillars feed on the lower side of leaves but later feed on the exposed leaves and enter the head/. Spray ridomil  0.5 g/litre of water at 10-15 days intervals or with dithane-M-45  1.5-2.0 g/: Grow Indian mustard as a trap crop. Spray of malathion (0.05%) or deltamethrin (0.028%), or cypermethrin (0.0075%) is very
+
+--- TABLE 112 ---
+Downy mildew: Aphids. It causes serious damage at all stages of plant growth. Discolouration occurs in the young: curd affecting the produce as well as quality. Aphids cause serious damage by. Spray ridomil  0.5 g/litre of water at 10-15 days intervals or with dithane-M-45  1.5-2.0 g/: effective. Foliar application of malathion
+
+--- TABLE 113 ---
+Downy mildew: Cabbage butterfly. It causes serious damage at all stages of plant growth. Discolouration occurs in the young: sap sucking. Seed setting stage is seriously affected. Damage is caused by caterpillars. The white winged butterflies deposit yellow coloured eggs in clusters on the undersurface of leaves.. Spray ridomil  0.5 g/litre of water at 10-15 days intervals or with dithane-M-45  1.5-2.0 g/: (0.05%) at 15 days interval is quite effective. Collect and destroy yellow egg masses and early stage larvae of cabbage butterfly. Spray of malathion (0.05%)/ deltamethrin (0.0028%)/ cypermethrin (0.0075%) and
+
+--- TABLE 114 ---
+TDometaetrom vianraiettei e(sD awrea rgfr goruopwedth in)to two broa: Inflorescence occurs more frequently on. dIn cdateetgeorrmieisn baatese (dT aolnl tghreoiwr gthro)wth habit:: Inflorescence cluster occurs at every third
+
+--- TABLE 115 ---
+TDometaetrom vianraiettei e(sD awrea rgfr goruopwedth in)to two broa: every internode until terminal ones are formed. Plant growth stops at terminal point with. dIn cdateetgeorrmieisn baatese (dT aolnl tghreoiwr gthro)wth habit:: internode. The main branch continues growing
+
+--- TABLE 116 ---
+Crop/Region: North Indian plains. Spring-summer: Late Nov (mid Jan). Autumn crop: July-Aug (Aug-Sept)
+
+--- TABLE 117 ---
+RReeccoommmmenednedde ddo dose: Open pollinated varieties. se oFf aNr,m P yaanrdd K fe manure (q/ha): 250. rtilizNeirtsr oagnedn t h ei (Kg/ha): 75-100. r tPimheo sopf hapoprulicsa t (Kg/ha): 50-75. ionP ios taass usinudmer . (Kg/ha): 50-60
+
+--- TABLE 118 ---
+Crop/Region: Northern. Spring-summer crop: Nov (mid Jan-Feb). Rainy season crop: Mar-May (April- June). Autumn crop: June-July (July-Aug)
+
+--- TABLE 119 ---
+Diseases: Phomopsis blight. Symptoms and management: Portion of fruit is bleached and gives burning appearance. Seed treatment with thiram 3 gm per kg. Spray the crop in the
+
+--- TABLE 120 ---
+Diseases: Bacterial wilt. Symptoms and management: nursery with dithane M-45. Grow resistant variety like Pusa Bhairav.
+
+--- TABLE 121 ---
+Diseases: Little leaf. Symptoms and management: Grow resistant varieties such as Arka Nidhi, Arka Keshav, Hisar Shyamal etc. Caused by Mycoplasma and transmitted by leaf hoppers. The affected plants are shorter in structure. The leaves are
+
+--- TABLE 122 ---
+Disease: Powdery mildew. Management: Spray mancozeb/ indofil M-45 (25gm/10 litre of water) or carbendazim/ bavistin (5gm/1i0.e l.). Follow five years of crop rotation.
+
+--- TABLE 123 ---
+Disease: Bacterial wilt. Management: Spray sulphur based fungicide karathane at an interval of 15 days interval  0.2 %. Grow resistant varieties. Crop rotation with Cruciferous vegetables
+
+--- TABLE 124 ---
+Crop/botanical name: (Cucumis sativus) Cucumber. Origin: India. Important varieties: Japanese Long Green, Pusa Uday, Pusa
+
+--- TABLE 125 ---
+Crop/botanical name: (Lagenaria siceraria) Bottle gourd. Origin: Africa. Important varieties: Barkha, Pant Kheera-1, Pusa Sanyog (F1 hybrid), Poinsette, Sheetal, Priya. Pusa Naveen, Pusa Samridhi, Pusa Sandesh,
+
+--- TABLE 126 ---
+Crop/botanical name: (Momordica charantia). Origin: Pusa Santushti, Pusa Hybrid 3, Punjab Round, Punjab Komal, Punjab Long, Arka Bahar.
+
+--- TABLE 127 ---
+Crop/botanical name: Bitter gourd (Cucurbita pepo) Summer squash. Origin: Tropics of the old world Central American. Important varieties: Arka Harit, Pusa Do Mausami, Pusa Vishesh, Pusa Hybrid-2. Pusa Alankar, Australian Green, Punjab Chappan Kaddu1, Early Yellow Prolific.
+
+--- TABLE 128 ---
+Crop/botanical name: (Lufa cylindrica). Origin: and Mexican region
+
+--- TABLE 129 ---
+Crop/botanical name: Sponge gourd (L. acutangula). Origin: India. Important varieties: Pusa Sneha, Pusa Supriya, Pusa Chikni.
+
+--- TABLE 130 ---
+Crop/botanical name: Ridge gourd (Benincasa hispida). Origin: India. Important varieties: Pusa Nutan, Pusa Nasdar, Arka Sumeet, Arka Sujat, Satputia (hermophrodite flower).
+
+--- TABLE 131 ---
+Crop/botanical name: Ash gourd (Trichosanthes Snake gourd anguina). Origin: Japan and Jawa India. Important varieties: Pusa Ujjawal, CO-1, CO-2, S-1 (PAU), Karikumbala, Boodikumbala, APAU Shakti. CO-1, CO-4, TA-19, Chichinda.
+
+--- TABLE 132 ---
+Crop/botanical name: (Citrullus lunatus) Water melon. Origin: Africa. Important varieties: 1 Arka Jyoti (F ), Arka Manik, Sugar Baby,
+
+--- TABLE 133 ---
+Crop/botanical name: (Cucumis melo) Musk melon. Origin: North West India and. Important varieties: Durgapur Meetha, Durgapur Kesar, Asahi Yamato. Pusa Madhuras, Pusa Sharbati, Hara Madhu, Punjab Rasila, Punjab Sunheri, Punjab
+
+--- TABLE 134 ---
+Crop: Cucumber. Season: Summer/rainy. Seed rate (kg/ha): 2.5-3.5. Spacing (m): 1.5  0.60-0.90. Fruit yield (q/ha): 250-300
+
+--- TABLE 135 ---
+Crop: Bottle gourd. Season: Summer. Seed rate (kg/ha): 4-5. Spacing (m): 2-3  1-1.5. Fruit yield (q/ha): 300-400
+
+--- TABLE 136 ---
+Crop: Summer squash (dwarf). Season: Summer/rainy. Seed rate (kg/ha): 8-10. Spacing (m): 0.60-0.75  0.45-0.60. Fruit yield (q/ha): 250-300
+
+--- TABLE 137 ---
+Crop: Sponge gourd. Season: Summer/rainy. Seed rate (kg/ha): 2.5-3.0. Spacing (m): 2.50-3.00  0.60-1.20. Fruit yield (q/ha): 150-200
+
+--- TABLE 138 ---
+Crop: Ridge gourd. Season: Summer/rainy. Seed rate (kg/ha): 3-3.5. Spacing (m): 2.50-3.00  0.60-1.20. Fruit yield (q/ha): 150-200
+
+--- TABLE 139 ---
+Crop: Snake gourd. Season: Summer/rainy. Seed rate (kg/ha): 4-6. Spacing (m): 1.5-2.5  0.60-1.20. Fruit yield (q/ha): 200-250
+
+--- TABLE 140 ---
+Crop: Ash gourd. Season: Summer/rainy. Seed rate (kg/ha): 5-7. Spacing (m): 1.5- 3  0.6-1.2. Fruit yield (q/ha): 100-150
+
+--- TABLE 141 ---
+Crop: Water melon. Season: Summer. Seed rate (kg/ha): 3-4. Spacing (m): 2.5-3.5  0.90-1.20. Fruit yield (q/ha): 300-500
+
+--- TABLE 142 ---
+Disease: Powdery mildew. Management: Spray karathane  0.05%
+
+--- TABLE 143 ---
+Disease: Downey mildew Anthracnose. Management: Spray dithane-Z-78 (0.25%)  Grow resistant varieties such as Poinsette, Arka Manik.
+
+--- TABLE 144 ---
+Disease: Fusarium wilt. Management: Seed treatment with blitox or bavistin (2.5 g/kg of seed).  Follow long term crop rotation.
+
+--- TABLE 145 ---
+Disease: Fruit rot. Management: Seed treatment with bavistin or thiram or captan (2.5 g/kg of seed). Avoid flood irrigation.
+
+--- TABLE 146 ---
+Disease: Angular leaf spot. Management: Seed treatment with mercuric chloride solution (1:1000) for 5-10 minutes.
+
+--- TABLE 147 ---
+Disease: Cucumber mosaic. Management: Transmitted by aphids. Control aphids with insecticides
+
+--- TABLE 148 ---
+Pests: Red spider mite. Diseases: Powdry mildew
+
+--- TABLE 149 ---
+Pests: Red spider mite. Diseases: Damping off
+
+--- TABLE 150 ---
+Insect Pests: Bud borer. Diseases: Stem rot
+
+--- TABLE 151 ---
+Pests and Diseases: Insect Pests. Symptoms: Pollubeetle. Management: The external indication of infestation is the presence of dark, drying berries possessing a characteristic
+
+--- TABLE 152 ---
+Pests and Diseases: Diseases. Symptoms: Quick wilt. Management: circular hole in the midst of green healthy berries. This is the most serious and dreaded disease affecting the pepper vine. Three types of symptoms, i.e., leaf-rot, collar-rot and root-rot, are generally
+
+--- TABLE 153 ---
+yPierlodd vuacrtiess from 110 kg to 355 kg/ha.: White pepper. Harvest maturity: Fully ripe
+
+--- TABLE 154 ---
+yPierlodd vuacrtiess from 110 kg to 355 kg/ha.: Black pepper. Harvest maturity: Fully mature and nearly ripe
+
+--- TABLE 155 ---
+yPierlodd vuacrtiess from 110 kg to 355 kg/ha.: Canned pepper. Harvest maturity: 4-5 months after fruit set
+
+--- TABLE 156 ---
+yPierlodd vuacrtiess from 110 kg to 355 kg/ha.: Dehydrated green pepper. Harvest maturity: 10-15 days before full maturity
+
+--- TABLE 157 ---
+yPierlodd vuacrtiess from 110 kg to 355 kg/ha.: Oleoresin. Harvest maturity: 15-20 days before full maturity
+
+--- TABLE 158 ---
+yPierlodd vuacrtiess from 110 kg to 355 kg/ha.: Oil. Harvest maturity: 15-20 days before full maturity
+
+--- TABLE 159 ---
+Pests: Insect. Diseases: Shoot borer. Symptoms: The larvae bore into the pseudostems and feed on the growing shoots, resulting in. Management: Hymenopteran parasitoids have been identified as bio- control agents for this pest.
+
+--- TABLE 160 ---
+Pests: Diseases. Diseases: Rhizome-rot. Symptoms: yellowing and drying of the infested shoots. The leaves of the infected plants become yellow and exhibit gradual drying along. Management: Planting healthy rhizomes and seed treatment with dithane M-45 (0.25%)
+
+--- TABLE 161 ---
+Pests: Insect- Pests. Diseases: Aphids. Symptoms: The attack of aphids usually occurs at the. Management: This insect is easily controlled by a number of insecticides
+
+--- TABLE 162 ---
+Pests: Diseases. Diseases: Wilt. Symptoms: time of flowering. Wilt infection occurs in the roots and drooping, yellowing, wilting and drying symptoms are. Management: (0.15% dimethoate at 10 days T. harzianum Pseudomonas interval). fluorescens and can be used as biocontrol agents and wilt tolerant cultivars, Rcr-41, Rcr 4,
+
+--- TABLE 163 ---
+Item: %. Pigs: kg. Cattle: %. Sheep: kg
+
+--- TABLE 164 ---
+Item: Market live weight. Pigs: -. Cattle: 100. Sheep: -
+
+--- TABLE 165 ---
+Item: Whole carcass. Pigs: 77.5. Cattle: 77.5. Sheep: 63.0
+
+--- TABLE 166 ---
+Item: Blood. Pigs: 3.0. Cattle: 3.0. Sheep: 18.0
+
+--- TABLE 167 ---
+Item: Fatty tissue. Pigs: 3.0. Cattle: 3.0. Sheep: 4.0
+
+--- TABLE 168 ---
+Item: Hide or skin. Pigs: 6.0. Cattle: 6.0. Sheep: 6.0
+
+--- TABLE 169 ---
+Item: Organs. Pigs: 7.0. Cattle: 7.0. Sheep: 16.0
+
+--- TABLE 170 ---
+Item: Head. Pigs: 5.9. Cattle: 5.9. Sheep: -
+
+--- TABLE 171 ---
+Item: Viscera (chest and abdomen). Pigs: 10.0. Cattle: 10.0. Sheep: 16.0
+
+--- TABLE 172 ---
+Item: Feet. Pigs: 2.0. Cattle: 2.0. Sheep: 2.0
+
+--- TABLE 173 ---
+Item: Tail. Pigs: 0.1. Cattle: 0.1. Sheep: 0.1
+
+--- TABLE 174 ---
+Type of by-product: Poultry litter and manure. % of live weight: . Uses: Recycled feed, surface dressing of agricultural land
+
+--- TABLE 175 ---
+Type of by-product: Hatchery byproducts Egg shells, infertile eggs, unhatched. % of live weight: . Uses: Hatchery by-product meal upto 35%
+
+--- TABLE 176 ---
+Type of by-product: eggs and dead as well as culled chicks. % of live weight: into feed. Egg shell meal as high calcium diet
+
+--- TABLE 177 ---
+Type of by-product: Byproducts of poultry dressing plant Feathers. % of live weight: 78. Uses: Bedding material, decorative purpose,
+
+--- TABLE 178 ---
+Type of by-product: Heads. % of live weight: 2.53.0. Uses: Poultry meal.
+
+--- TABLE 179 ---
+Type of by-product: Blood. % of live weight: 3.23.7. Uses: Blood meal.
+
+--- TABLE 180 ---
+Type of by-product: Gizzard and proventriculus. % of live weight: 3.54.2. Uses: Edible, source of chitinolytic enzyme.
+
+--- TABLE 181 ---
+Type of by-product: Feet Intestines and glands. % of live weight: 3.54.0 8.59.0. Uses: Soup, technical fat/poultry grease Sportgats, meat meal, poultry grease
+
+--- TABLE 182 ---
+Animal: Buffalo. Water: 84.2. Fat: 6.6. Protein: 3.9. Lactose: 5.2. Ash: 0.8
+
+--- TABLE 183 ---
+Animal: Camel. Water: 86.5. Fat: 3.1. Protein: 4.0. Lactose: 5.6. Ash: 0.8
+
+--- TABLE 184 ---
+Animal: Cow. Water: 86.6. Fat: 4.6. Protein: 3.4. Lactose: 4.9. Ash: 0.7
+
+--- TABLE 185 ---
+Animal: Goat. Water: 86.5. Fat: 4.5. Protein: 3.5. Lactose: 4.7. Ash: 0.8
+
+--- TABLE 186 ---
+Animal: Guinea pig. Water: 82.2. Fat: 5.5. Protein: 8.5. Lactose: 2.9. Ash: 0.9
+
+--- TABLE 187 ---
+S. No.: 1.. Type of milk: Double toned milk. Milk fat (% not less than): 1.5. Milk SNF (% not less than): 9.0
+
+--- TABLE 188 ---
+S. No.: 2.. Type of milk: Toned milk. Milk fat (% not less than): 3.0. Milk SNF (% not less than): 8.5
+
+--- TABLE 189 ---
+S. No.: 3.. Type of milk: Standardized milk. Milk fat (% not less than): 4.5. Milk SNF (% not less than): 8.5
+
+--- TABLE 190 ---
+Sweet dahi: Acidity as % lactic acid (maximum). Sour dahi: 0.7
+
+--- TABLE 191 ---
+Sweet dahi: Yeast and mould count per g (maximum). Sour dahi: 100
+
+--- TABLE 192 ---
+The Bureau of Indian Standards has prescribed the following standards for: Total solids (per cent by mass) (minimum). :: 58.0
+
+--- TABLE 193 ---
+The Bureau of Indian Standards has prescribed the following standards for: Milk fat (in dry matter per cent) by mass (minimum). :: 5.0
+
+--- TABLE 194 ---
+The Bureau of Indian Standards has prescribed the following standards for: Milk protein (in dry matter per cent) by mass (minimum). :: 10.5
+
+--- TABLE 195 ---
+The Bureau of Indian Standards has prescribed the following standards for: Titratable acidity (per cent lactic acid) (maximum). :: 1.4
+
+--- TABLE 196 ---
+The Bureau of Indian Standards has prescribed the following standards for: Sucrose (in dry matter per cent) by mass (maximum). :: 72.5
+
+--- TABLE 197 ---
+The Bureau of Indian Standards has prescribed the following standards for: Total ash (in dry matter) per cent by mass (maximum). :: 0.9
+
+--- TABLE 198 ---
+Type: Dhap. Fat (per cent): 2126. Total solids (per cent): 6769. Specific sweets prepared: Burfi, peda
+
+--- TABLE 199 ---
+Type: Danedar. Fat (per cent): 2023. Total solids (per cent): 5663. Specific sweets prepared: Gulab jamun, pantooa
+
+--- TABLE 200 ---
+Seed: Seed is produced through scientifically. Grain: It is produced by general methods
+
+--- TABLE 201 ---
+Seed: Seed is used for propagation purpose. Grain: Grain is used for consumption purpose
+
+--- TABLE 202 ---
+Seed: Seed should be viable and vigorous  Seed should be physically pure  It can be treated with pesticide /. Grain: Grain may or may not be viable  Physical purity is not necessary  It should never be treated with
