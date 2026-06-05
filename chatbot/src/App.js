@@ -1,6 +1,14 @@
 import { useState, useEffect, useRef } from "react";
 import ReactMarkdown from "react-markdown";
 import "./App.css";
+const res = await fetch("https://nonlimitative-nancie-credulously.ngrok-free.dev/chat", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "ngrok-skip-browser-warning": "true",   // 👈 yeh add karo
+  },
+  body: JSON.stringify({ message: userText }),
+});
 
 function App() {
   const [messages, setMessages] = useState([]);
@@ -29,7 +37,7 @@ function App() {
     setMessages((prev) =>[...prev, { sender: "Bot", text: "Typing..." }]);
 
     try {
-      const res = await fetch("http://localhost:5000/chat", {
+      const res = await fetch("https://nonlimitative-nancie-credulously.ngrok-free.dev/chat", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
