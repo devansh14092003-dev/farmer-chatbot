@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import ReactMarkdown from "react-markdown";
 import "./App.css";
-const res = await fetch("https://nonlimitative-nancie-credulously.ngrok-free.dev/chat", {
+const res = await fetch("https://nonlimitative-nancie-credulously.ngrok-free.dev", {
   method: "POST",
   headers: {
     "Content-Type": "application/json",
