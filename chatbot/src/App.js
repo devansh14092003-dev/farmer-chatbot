@@ -1,21 +1,12 @@
 import { useState, useEffect, useRef } from "react";
 import ReactMarkdown from "react-markdown";
 import "./App.css";
-const res = await fetch("https://nonlimitative-nancie-credulously.ngrok-free.dev", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-    "ngrok-skip-browser-warning": "true",   // 👈 yeh add karo
-  },
-  body: JSON.stringify({ message: userText }),
-});
 
 function App() {
   const [messages, setMessages] = useState([]);
-  const[input, setInput] = useState("");
-
+  const [input, setInput] = useState("");
   const [isOpen, setIsOpen] = useState(false);
-  const[isRecording, setIsRecording] = useState(false);
+  const [isRecording, setIsRecording] = useState(false);
   const [voiceLang, setVoiceLang] = useState("en-IN");
   const messagesEndRef = useRef(null);
 
@@ -24,7 +15,6 @@ function App() {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
-  // --- YOUR EXACT BACKEND CONNECTION LOGIC ---
   const sendMessage = async () => {
     if (!input) return;
 
@@ -34,31 +24,31 @@ function App() {
     setInput("");
 
     // typing indicator
-    setMessages((prev) =>[...prev, { sender: "Bot", text: "Typing..." }]);
+    setMessages((prev) => [...prev, { sender: "Bot", text: "Typing..." }]);
 
     try {
       const res = await fetch("https://nonlimitative-nancie-credulously.ngrok-free.dev/chat", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
+          "ngrok-skip-browser-warning": "true",
         },
         body: JSON.stringify({ message: userText }),
       });
 
       const data = await res.json();
 
-      // replace typing
       setMessages((prev) => {
         const updated = [...prev];
         updated.pop();
-        return[...updated, { sender: "Bot", text: data.reply }];
+        return [...updated, { sender: "Bot", text: data.reply }];
       });
     } catch (error) {
       console.error("Error connecting to backend:", error);
       setMessages((prev) => {
         const updated = [...prev];
         updated.pop();
-        return[...updated, { sender: "Bot", text: "Sorry, I couldn't connect to the server." }];
+        return [...updated, { sender: "Bot", text: "Sorry, I couldn't connect to the server." }];
       });
     }
   };
@@ -67,7 +57,6 @@ function App() {
     if (e.key === "Enter") sendMessage();
   };
 
-  // --- VOICE SEARCH LOGIC ---
   const handleVoiceSearch = () => {
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 
@@ -92,7 +81,7 @@ function App() {
       console.error("Speech Recognition Error:", event.error);
       setIsRecording(false);
     };
-    
+
     recognition.onend = () => setIsRecording(false);
 
     recognition.start();
@@ -101,7 +90,7 @@ function App() {
   return (
     <>
       <div className="app-background">
-        
+
         {/* Floating Chat Button */}
         {!isOpen && (
           <div className="chat-fab" onClick={() => setIsOpen(true)}>
@@ -109,13 +98,11 @@ function App() {
           </div>
         )}
 
-        {/* OVERLAY: This centers the modal and dims the background */}
         {isOpen && (
           <div className="chat-overlay" onClick={() => setIsOpen(false)}>
-            
-            {/* Prevent clicks inside the window from closing it */}
+
             <div className="chat-window" onClick={(e) => e.stopPropagation()}>
-              
+
               {/* Header */}
               <div className="chat-header">
                 <div className="header-left">
@@ -158,9 +145,7 @@ function App() {
                         <span></span><span></span><span></span>
                       </div>
                     ) : (
-                      <ReactMarkdown>
-                        {msg.text}
-                      </ReactMarkdown>
+                      <ReactMarkdown>{msg.text}</ReactMarkdown>
                     )}
                   </div>
                 ))}
@@ -176,7 +161,7 @@ function App() {
                 >
                   🎤
                 </button>
-                
+
                 <input
                   type="text"
                   className="chat-input"
@@ -185,7 +170,7 @@ function App() {
                   onChange={(e) => setInput(e.target.value)}
                   onKeyDown={handleKeyPress}
                 />
-                
+
                 <button className="btn btn-send" onClick={sendMessage}>
                   ➤
                 </button>
