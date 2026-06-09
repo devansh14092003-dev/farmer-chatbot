@@ -6,6 +6,9 @@ import numpy as np
 import faiss
 import pdfplumber
 import nltk
+import pandas as pd
+from dotenv import load_dotenv
+load_dotenv()
 
 from rank_bm25 import BM25Okapi
 
@@ -18,7 +21,61 @@ from huggingface_hub import InferenceClient
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+import pandas as pd
+embed_model = SentenceTransformer(
+    "BAAI/bge-m3"
+)
 
+# ============================================================
+# KCC DIRECT RETRIEVAL SETUP
+# ============================================================
+KCC_EN_FILE    = "KCCNewEnglishDataset.csv"
+KCC_HI_FILE    = "KCCNewHindiDataset.xlsx"
+KCC_EMB_FILE   = "kcc_embeddings.npy"   # cached embeddings
+KCC_QUES_FILE  = "kcc_questions.pkl"    # cached questions
+KCC_ANS_FILE   = "kcc_answers.pkl"      # cached answers
+
+def load_kcc_data():
+    # English dataset
+    en_df = pd.read_csv(KCC_EN_FILE)
+    en_q  = en_df["Query"].tolist()
+    en_a  = en_df["KCC Ans"].tolist()
+
+    # Hindi dataset
+    hi_df = pd.read_excel(KCC_HI_FILE)
+    hi_q  = hi_df["सवाल"].tolist()
+    hi_a  = hi_df["केसीसी उत्तर"].tolist()
+
+    # Dono combine karo
+    all_q = en_q + hi_q
+    all_a = en_a + hi_a
+    return all_q, all_a
+
+if os.path.exists(KCC_EMB_FILE) and os.path.exists(KCC_QUES_FILE):
+    # Cached embeddings load karo (fast)
+    print("Loading KCC embeddings from cache...")
+    kcc_embeddings = np.load(KCC_EMB_FILE)
+    with open(KCC_QUES_FILE, "rb") as f:
+        kcc_questions = pickle.load(f)
+    with open(KCC_ANS_FILE, "rb") as f:
+        kcc_answers = pickle.load(f)
+    print(f"KCC cache loaded: {len(kcc_questions)} entries")
+else:
+    # Pehli baar — embeddings banao aur save karo
+    print("Building KCC embeddings (first run, will be cached)...")
+    kcc_questions, kcc_answers = load_kcc_data()
+    kcc_embeddings = embed_model.encode(
+        kcc_questions,
+        convert_to_numpy=True,
+        show_progress_bar=True,
+        batch_size=64
+    )
+    np.save(KCC_EMB_FILE, kcc_embeddings)
+    with open(KCC_QUES_FILE, "wb") as f:
+        pickle.dump(kcc_questions, f)
+    with open(KCC_ANS_FILE, "wb") as f:
+        pickle.dump(kcc_answers, f)
+    print(f"KCC embeddings saved: {len(kcc_questions)} entries")
 
 # ======================================================
 # NLTK
@@ -808,10 +865,22 @@ Your job is to help farmers with clear, practical, and easy-to-understand answer
 
 
 def answer_question(query):
+    from sklearn.metrics.pairwise import cosine_similarity
 
-    return agriculture_chatbot(
-        query
-    )
+    # KCC retrieval
+    query_emb   = embed_model.encode([query], convert_to_numpy=True)
+    similarities = cosine_similarity(query_emb, kcc_embeddings)[0]
+    best_idx    = int(np.argmax(similarities))
+    best_score  = float(similarities[best_idx])
+
+    print(f"KCC match score: {best_score:.3f} | Q: {kcc_questions[best_idx][:60]}")
+
+    if best_score >= 0.75:
+        print("✅ Direct KCC retrieval used")
+        return kcc_answers[best_idx]
+
+    print("🤖 LLM generation used")
+    return agriculture_chatbot(query)
 
 
 # ======================================================
