@@ -99,7 +99,17 @@ function App() {
         )}
 
         {isOpen && (
-          <div className="chat-overlay" onClick={() => setIsOpen(false)}>
+          <div
+               className="chat-overlay"
+               onClick={() => setIsOpen(false)}
+               style={{
+               height: `${viewportHeight}px`,
+               position: "fixed",
+               top: 0,
+               left: 0,
+                right: 0,
+               }}
+          >
 
             <div className="chat-window" onClick={(e) => e.stopPropagation()}>
 
