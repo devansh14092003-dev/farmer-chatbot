@@ -9,6 +9,19 @@ function App() {
   const [isRecording, setIsRecording] = useState(false);
   const [voiceLang, setVoiceLang] = useState("en-IN");
   const messagesEndRef = useRef(null);
+  const [viewportHeight, setViewportHeight] = useState(window.innerHeight);
+
+useEffect(() => {
+  const handleResize = () => {
+    setViewportHeight(window.innerHeight);
+  };
+
+  window.addEventListener("resize", handleResize);
+
+  return () => {
+    window.removeEventListener("resize", handleResize);
+  };
+}, []);
 
   // Auto-scroll to bottom when messages update
   useEffect(() => {
