@@ -27,7 +27,7 @@ function App() {
     setMessages((prev) => [...prev, { sender: "Bot", text: "Typing..." }]);
 
     try {
-      const res = await fetch("https://nonlimitative-nancie-credulously.ngrok-free.dev/chat", {
+      const res = await fetch("https://nonlimitative-nancie-credulously.ngrok-free.dev", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
