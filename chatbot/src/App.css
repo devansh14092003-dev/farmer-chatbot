@@ -257,7 +257,12 @@
 
 @media (max-width: 480px) {
   .chat-window {
-    .chat-window {
+    
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+  }
+  .chat-window {
   display: flex;
   flex-direction: column;
   max-height: 90vh;      /* desktop */
@@ -283,10 +288,6 @@
     border-radius: 0 !important;
   }
 }
-    width: 100vw;
-    height: 100vh;
-    border-radius: 0;
-  }
 }
 .msg-bubble h1,
 .msg-bubble h2,
