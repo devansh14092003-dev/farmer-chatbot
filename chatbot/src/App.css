@@ -257,6 +257,32 @@
 
 @media (max-width: 480px) {
   .chat-window {
+    .chat-window {
+  display: flex;
+  flex-direction: column;
+  max-height: 90vh;      /* desktop */
+}
+
+.chat-body {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;  /* smooth scroll on iOS */
+}
+
+.chat-footer {
+  flex-shrink: 0;        /* footer hamesha neeche rahega */
+  position: sticky;
+  bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .chat-window {
+    width: 100vw !important;
+    height: 100% !important;
+    max-height: 100% !important;
+    border-radius: 0 !important;
+  }
+}
     width: 100vw;
     height: 100vh;
     border-radius: 0;
