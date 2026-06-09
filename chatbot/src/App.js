@@ -145,7 +145,15 @@ function App() {
                         <span></span><span></span><span></span>
                       </div>
                     ) : (
-                      <ReactMarkdown>{msg.text}</ReactMarkdown>
+                      <ReactMarkdown
+    components={{
+    p: ({node, ...props}) => <p style={{marginBottom: '8px'}} {...props} />,
+    li: ({node, ...props}) => <li style={{marginBottom: '4px'}} {...props} />,
+    ul: ({node, ...props}) => <ul style={{paddingLeft: '20px', marginBottom: '8px'}} {...props} />,
+  }}
+>
+  {msg.text}
+</ReactMarkdown>
                     )}
                   </div>
                 ))}
