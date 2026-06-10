@@ -1,0 +1,139 @@
+===========================================================================
+FARMER CHATBOT — TEST RESULTS
+Date       : 2026-06-09 13:16:50
+Total Qs   : 12
+KCC        : 10 | LLM: 2
+===========================================================================
+
+Q1. [KCC] Score: 1.000
+Question : When is the best time to sow sugarcane?
+Matched  : When is the best time to sow sugarcane?
+Answer   : The ideal time to sow sugarcane is between February and April. This ensures optimal growth conditions for the crop.
+---------------------------------------------------------------------------
+
+Q2. [KCC] Score: 1.000
+Question : How do I control pests in my coriander crop?
+Matched  : How do I control pests in my coriander crop?
+Answer   : For pest control in coriander, use a neem oil solution at 5 ml per liter of water. Spray evenly on the plants, focusing on the undersides of leaves, and repeat every 10 days. Always follow safety guidelines when using pesticides.
+---------------------------------------------------------------------------
+
+Q3. [KCC] Score: 1.000
+Question : How do I control blast in tomatoes?
+Matched  : How do I control blast in tomatoes?
+Answer   : To control blast in tomatoes, spray Mancozeb at 2 grams per liter of water every 7-10 days. Remove affected parts and ensure good drainage.
+---------------------------------------------------------------------------
+
+Q4. [KCC] Score: 0.990
+Question : What is the right time to plant sugarcane?
+Matched  : When's the best time to plant sugarcane?
+Answer   : Plant sugarcane in autumn (2nd week of September to last week of October) or spring (1st week of February to 2nd week of April) for optimal growth.
+---------------------------------------------------------------------------
+
+Q5. [KCC] Score: 0.923
+Question : How to remove insects from coriander?
+Matched  : My coriander has insects. How do I control them?
+Answer   : To control insects in your coriander, spray Azadirachtin (neem-based) at 2 ml per liter of water. Apply early in the morning to keep it safe for consumption.
+---------------------------------------------------------------------------
+
+Q6. [KCC] Score: 0.823
+Question : How to treat tomato blast disease?
+Matched  : How do I control blast in tomatoes?
+Answer   : To control blast in tomatoes, spray Mancozeb at 2 grams per liter of water every 7-10 days. Remove affected parts and ensure good drainage.
+---------------------------------------------------------------------------
+
+Q7. [LLM] Score: 0.705
+Question : What is the best intercropping method for wheat and mustard?
+Answer   : Intercropping wheat and mustard can be a beneficial and profitable practice for farmers. The best intercropping method for wheat and mustard depends on several factors such as climate, soil type, and management practices. Here are some general guidelines for intercropping wheat and mustard:
+
+**Method 1: Row-based Intercropping**
+
+1. Plant wheat in rows, typically 20-25 cm apart.
+2. Plant mustard seeds in the gaps between the wheat rows, about 5-7 cm apart.
+3. This method allows for efficient use of space and promotes soil health.
+
+**Method 2: Strip Intercropping**
+
+1. Plant wheat in strips, typically 1-2 meters wide.
+2. Plant mustard seeds in the strips, about 20-25 cm apart.
+3. This method promotes soil health and reduces weed competition.
+
+**Method 3: Companion Planting**
+
+1. Plant wheat in a grid pattern, with mustard seeds planted around the wheat plants, about 10-15 cm apart.
+2. This method promotes beneficial insect interactions and reduces pest pressure.
+
+**Key Considerations:**
+
+1. **Crop selection:** Choose a wheat variety that is suitable for intercropping with mustard. Some popular wheat varieties for intercropping include 'Kalyan Sona' and 'HD 2687'.
+2. **Mustard variety:** Select a mustard variety that is suitable for intercropping with wheat, such as 'T-9' or 'T-20'.
+3. **Sowing time:** Plant wheat and mustard at the same time or slightly staggered, depending on the climate and soil type.
+4. **Fertilizer application:** Apply fertilizers according to the recommended rates for each crop.
+5. **Pest and disease management:** Monitor for pests and diseases and apply integrated pest management (IPM) strategies as needed.
+
+**Benefits of Intercropping Wheat and Mustard:**
+
+1. **Improved soil health:** Intercropping promotes soil biota and reduces soil erosion.
+2. **Increased crop yields:** Intercropping can lead to increased yields of both crops.
+3. **Reduced weed competition:** Intercropping reduces weed competition and promotes a more diverse crop ecosystem.
+4. **Improved pest management:** Intercropping can reduce pest pressure and promote beneficial insect interactions.
+
+**Challenges and Limitations:**
+
+1. **Competitive effects:** Mustard may compete with wheat for water and nutrients, especially if not managed properly.
+2. **Harvesting difficulties:** Intercropping can make harvesting more challenging, especially if the crops are not properly managed.
+3. **Market demand:** The demand for intercropped wheat and mustard may be limited in some markets.
+
+Overall, the best intercropping method for wheat and mustard will depend on the specific climate, soil type, and management practices of the farm. It's essential to conduct experiments and monitor the performance of different intercropping methods to determine the most suitable approach for your specific situation.
+---------------------------------------------------------------------------
+
+Q8. [KCC] Score: 0.912
+Question : How to increase soil fertility organically?
+Matched  : How can I improve soil fertility?
+Answer   : To improve soil fertility, apply farmyard manure, compost, or neem cake to the soil. Rotate crops and test soil regularly.
+---------------------------------------------------------------------------
+
+Q9. [LLM] Score: 0.696
+Question : What are signs of nitrogen deficiency in rice?
+Answer   : Nitrogen (N) is a crucial macronutrient for rice growth and development. A nitrogen deficiency in rice can be identified by the following signs:
+
+1. **Yellowing of leaves**: Nitrogen deficiency causes the leaves to turn yellow, starting from the older leaves and moving towards the younger ones. This is due to the reduction in chlorophyll production.
+
+2. **Delayed tillering**: Nitrogen promotes tillering in rice, which is the process of producing new shoots from the base of the plant. A nitrogen deficiency can delay or reduce tillering, resulting in fewer panicles (rice grains).
+
+3. **Reduced plant height**: Nitrogen is essential for cell division and expansion in rice. A nitrogen deficiency can lead to stunted plant growth and reduced plant height.
+
+4. **Thinning of leaves**: Nitrogen deficiency can cause the leaves to become thinner and more brittle, making them more susceptible to damage from wind, rain, and other environmental factors.
+
+5. **Reduced grain yield**: Nitrogen is essential for grain formation in rice. A nitrogen deficiency can lead to reduced grain yield, lower grain quality, and reduced grain weight.
+
+6. **Increased susceptibility to diseases**: Nitrogen deficiency can make rice plants more susceptible to diseases such as blast, sheath blight, and leaf blast.
+
+7. **Delayed maturity**: Nitrogen deficiency can delay the maturity of rice plants, leading to reduced grain yield and lower grain quality.
+
+8. **Reduced root growth**: Nitrogen is essential for root growth and development in rice. A nitrogen deficiency can lead to reduced root growth, making the plant more susceptible to drought and other environmental stresses.
+
+9. **Discoloration of the midrib**: In severe cases of nitrogen deficiency, the midrib of the leaves may turn yellow or white.
+
+10. **Reduced panicle length**: Nitrogen deficiency can lead to reduced panicle length, resulting in fewer grains per panicle.
+
+It's worth noting that nitrogen deficiency can be caused by a variety of factors, including soil nutrient deficiencies, waterlogged or drought conditions, and excessive use of nitrogen-fixing microorganisms.
+---------------------------------------------------------------------------
+
+Q10. [KCC] Score: 1.000
+Question : गन्ना बोने का सबसे अच्छा समय कब है?
+Matched  : गन्ना बोने का सबसे अच्छा समय कब है?
+Answer   : गन्ने की बुवाई का आदर्श समय फरवरी से अप्रैल के बीच है। इससे फसल के लिए अनुकूलतम विकास की स्थिति सुनिश्चित होती है।
+---------------------------------------------------------------------------
+
+Q11. [KCC] Score: 0.932
+Question : मिर्च को सूखने से कैसे बचाएं?
+Matched  : मैं कटाई के दौरान मिर्च को सूखने से कैसे रोक सकता हूँ?
+Answer   : कटाई के दौरान मिर्च को सूखने से बचाने के लिए, 2 किलो ट्राइकोडर्मा को 50 किलो गोबर की खाद के साथ मिलाकर रोपाई के समय मिट्टी में मिलाएँ। इससे मिट्टी में नमी बनी रहती है और पौधे की स्वस्थ वृद्धि होती है।
+---------------------------------------------------------------------------
+
+Q12. [KCC] Score: 0.859
+Question : गेहूं में खाद कब डालें?
+Matched  : मुझे गेहूं में कितनी खाद डालनी चाहिए?
+Answer   : गेहूं के लिए, प्रति हेक्टेयर 150 किलोग्राम नाइट्रोजन, 60 किलोग्राम फॉस्फोरस और 40 किलोग्राम पोटेशियम डालें। बेहतर पोषक तत्व अवशोषण के लिए विभाजित अनुप्रयोगों का प्रयोग करें।
+---------------------------------------------------------------------------
+
